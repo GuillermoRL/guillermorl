@@ -1,57 +1,98 @@
-# 👋 Hi, I'm Guillermo Rafael  
+<h1 align="center">Hi, I'm Guillermo 👋</h1>
+<h3 align="center">Senior Software Engineer • Full-Stack • Mobile • Cloud</h3>
 
-💻 **Full-Stack Software Engineer** with 6+ years of experience designing, developing, and deploying scalable web and mobile applications.  
-I focus on building high-performance products using **modern JavaScript technologies** and **cloud infrastructure** — from MVPs to production-ready solutions.
-
----
-
-## 🧩 About Me
-- ⚙️ Experienced in **end-to-end development**, from architecture and API design to frontend integration and deployment.  
-- 🚀 Passionate about creating **efficient, maintainable, and scalable systems** following clean code principles.  
-- 🤝 Enjoy collaborating with cross-functional teams to transform ideas into real, usable products.  
-- 🔍 Continuously learning and experimenting with new tools, frameworks, and cloud services.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/luisguillermorafaellopez/"><img src="https://img.shields.io/badge/LinkedIn-Guillermo%20Rafael-0A66C2?logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-Mexico-008040?logo=google-maps" />
+  <img src="https://img.shields.io/badge/Senior%20Experience-7%2B%20years-orange" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Senior Software Engineer** with **7+ years** of experience building:
+
+- Full-stack web platforms  
+- Mobile apps with **React Native** and native modules (Swift/Obj-C)  
+- Cloud-native systems (AWS, Terraform, CI/CD)  
+- Membership & billing platforms (Stripe)  
+- Integrations with **Salesforce, Contentful, Auth0, Windmill**  
+- Database-driven architectures (MySQL, PostgreSQL, DynamoDB, Oracle)
+
+I specialize in taking products from **zero → production**, owning:
+
+- Architecture  
+- Backend + frontend engineering  
+- Infrastructure & deployments  
+- Integrations & automation  
+- Team mentorship and code quality standards  
+
+I love clean code, distributed systems, automation, and complex problem-solving.
+
+---
+
+## 🚀 Core Skills
 
 ### **Frontend**
-- React · Next.js · React Native · TailwindCSS · Storybook · TypeScript · Redux · Jest  
+React • Next.js • React Native • Redux • Storybook • Atomic Design • Tailwind • PWA
 
 ### **Backend**
-- Node.js · Express.js · GraphQL · REST APIs · C# (microservices)  
+Node.js • C# • Express • GraphQL (Apollo, schema-first) • REST • Prisma • PL/SQL
 
-### **Cloud / DevOps**
-- AWS (Lambda, S3, ECS, EKS, API Gateway, Cognito) · Terraform · Docker · Kubernetes · Vercel · GitHub Actions  
+### **Cloud & DevOps**
+AWS (Cognito, S3, ECR, ECS/EKS, Lambda, API Gateway) • Vercel  
+Terraform • GitHub Actions • Docker
+
+### **Mobile Native**
+MCSession (P2P) • Swift • Objective-C • React Native Turbo Modules
 
 ### **Databases**
-- Oracle - MySQL · PostgreSQL · MongoDB · DynamoDB · SQLite  
+MySQL • PostgreSQL • DynamoDB • Oracle • SQLite
 
-### **Other Tools & Integrations**
-- Auth0 · Stripe · Salesforce · Contentful · SendGrid · Windmill · Webhooks · Cronjobs  
-
----
-
-## 🧠 What I Do
-- 🧩 Build **MVPs** and **production-grade applications** for startups and growing teams.  
-- 🧰 Implement **microservice architectures**, **CI/CD pipelines**, and **serverless infrastructures**.  
-- 📱 Develop **cross-platform apps** and component-driven UIs with React Native and atomic design.  
-- ☁️ Automate deployments and infrastructure using AWS, Docker, and Terraform.  
-- 📊 Optimize performance, scalability, and maintainability of systems.  
+### **Integrations**
+Stripe • Salesforce (APEX, flows) • Contentful • Auth0 • SendGrid • Windmill • Acuity
 
 ---
 
-## 🌍 Beyond Code
-- ✨ Advocate for **clean architecture, testing, and reusable components**.  
-- 💬 I enjoy mentoring junior developers and collaborating in open-source or side projects.  
-- 🎯 Always exploring better ways to combine creativity and engineering for real-world impact.
+## 🏆 Selected Engineering Achievements
+
+### 🔹 **Real-time P2P React Native architecture**
+- Implemented device-to-device communication using **MCSession**
+- Built a **Swift/Obj-C Turbo Module** for React Native  
+- Working with a **message bus** syncing screens, navigation, & interactions
+
+### 🔹 **Built platform from scratch**
+- Migrated Gatsby → Next.js (SSG, SSR, ISR)  
+- Built Contentful ↔ Salesforce ↔ MySQL syncing pipelines  
+- Developed Stripe subscriptions, addons, bundles, proration, and webhooks  
+- Created complete user onboarding: DB → Stripe → Salesforce → Auth0  
+- Managed Vercel deployments, cronjobs, automation flows  
+
+### 🔹 **Automation & Integrations**
+- Migrated backend logic to **Windmill automations**  
+- Built webhooks for Contentful, Stripe, and Salesforce  
+- Automated user flows, billing validations, membership logic  
+
+### 🔹 **Cloud Infrastructure**
+- Built AWS environments with **Terraform**  
+- Managed EC2, ECR, ECS tasks, S3, IAM, pipelines  
+- CI/CD with GitHub Actions and Vercel  
 
 ---
 
-## 📫 Connect With Me 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/luisguillermorafaellopez/) 
-- 🧰 [GitHub Projects](https://github.com/guillermorl)
+## 📦 Featured Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,aws,ts,js,nodejs,cs,dotnet,graphql,postgres,mysql,dynamodb,redux,swift,githubactions,vercel,docker,terraform" />
+</p>
 
 ---
 
-> _“Build things that matter. Learn constantly. Collaborate openly.”_  
+## 🎯 Final Note
+
+I enjoy building high-impact systems with great teams — from architecture to deployment.  
+If you’re working on something exciting and want to collaborate: **reach out!**
+
+---
+
