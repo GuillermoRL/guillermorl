@@ -1,98 +1,60 @@
-<h1 align="center">Hi, I'm Guillermo 👋</h1>
-<h3 align="center">Senior Software Engineer • Full-Stack • Mobile • Cloud</h3>
+# Hi there, I'm Guillermo Rafael 👋
+### Senior Software Engineer | Technical Lead | Full Stack Architect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luisguillermorafaellopez/"><img src="https://img.shields.io/badge/LinkedIn-Guillermo%20Rafael-0A66C2?logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Location-Mexico-008040?logo=google-maps" />
-  <img src="https://img.shields.io/badge/Senior%20Experience-7%2B%20years-orange" />
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisguillermorafaellopez)](https://www.linkedin.com/in/luisguillermorafaellopez)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:guillermo.rafael1@gmail.com)](mailto:guillermo.rafael1@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 Professional Summary
 
-I'm a **Senior Software Engineer** with **7+ years** of experience building:
+I am a **Senior Software Engineer** with **7+ years of experience** specializing in scalable architecture, cloud infrastructure, and technical leadership. My focus is on bridging the gap between complex business requirements and high-performance technical execution.
 
-- Full-stack web platforms  
-- Mobile apps with **React Native** and native modules (Swift/Obj-C)  
-- Cloud-native systems (AWS, Terraform, CI/CD)  
-- Membership & billing platforms (Stripe)  
-- Integrations with **Salesforce, Contentful, Auth0, Windmill**  
-- Database-driven architectures (MySQL, PostgreSQL, DynamoDB, Oracle)
-
-I specialize in taking products from **zero → production**, owning:
-
-- Architecture  
-- Backend + frontend engineering  
-- Infrastructure & deployments  
-- Integrations & automation  
-- Team mentorship and code quality standards  
-
-I love clean code, distributed systems, automation, and complex problem-solving.
+I thrive in environments where I can mentor teams, design robust systems (Node.js/React), and optimize CI/CD workflows on AWS.
 
 ---
 
-## 🚀 Core Skills
+## 🛠️ Tech Stack & Tools
 
-### **Frontend**
-React • Next.js • React Native • Redux • Storybook • Atomic Design • Tailwind • PWA
+### **Backend & Architecture**
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-181717?style=for-the-badge&logo=microservices&logoColor=white)
 
-### **Backend**
-Node.js • C# • Express • GraphQL (Apollo, schema-first) • REST • Prisma • PL/SQL
+### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Cloud & DevOps**
-AWS (Cognito, S3, ECR, ECS/EKS, Lambda, API Gateway) • Vercel  
-Terraform • GitHub Actions • Docker
-
-### **Mobile Native**
-MCSession (P2P) • Swift • Objective-C • React Native Turbo Modules
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### **Databases**
-MySQL • PostgreSQL • DynamoDB • Oracle • SQLite
-
-### **Integrations**
-Stripe • Salesforce (APEX, flows) • Contentful • Auth0 • SendGrid • Windmill • Acuity
-
----
-
-## 🏆 Selected Engineering Achievements
-
-### 🔹 **Real-time P2P React Native architecture**
-- Implemented device-to-device communication using **MCSession**
-- Built a **Swift/Obj-C Turbo Module** for React Native  
-- Working with a **message bus** syncing screens, navigation, & interactions
-
-### 🔹 **Built platform from scratch**
-- Migrated Gatsby → Next.js (SSG, SSR, ISR)  
-- Built Contentful ↔ Salesforce ↔ MySQL syncing pipelines  
-- Developed Stripe subscriptions, addons, bundles, proration, and webhooks  
-- Created complete user onboarding: DB → Stripe → Salesforce → Auth0  
-- Managed Vercel deployments, cronjobs, automation flows  
-
-### 🔹 **Automation & Integrations**
-- Migrated backend logic to **Windmill automations**  
-- Built webhooks for Contentful, Stripe, and Salesforce  
-- Automated user flows, billing validations, membership logic  
-
-### 🔹 **Cloud Infrastructure**
-- Built AWS environments with **Terraform**  
-- Managed EC2, ECR, ECS tasks, S3, IAM, pipelines  
-- CI/CD with GitHub Actions and Vercel  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## 📦 Featured Tech Stack
+## 💡 What I've been working on
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,aws,ts,js,nodejs,cs,dotnet,graphql,postgres,mysql,dynamodb,redux,swift,githubactions,vercel,docker,terraform" />
+Here are some highlights of my recent technical impact:
+
+- **Mobile Architecture Leadership:** Led the end-to-end development of an enterprise **iPad application** (React Native), integrating native Objective-C modules for seamless device-to-device communication.
+- **Frontend Strategy:** Spearheaded the migration and modernization of core web platforms, defining the strategy for **React/Redux** implementations and ensuring pixel-perfect delivery.
+- **Backend Scalability:** Designed and deployed **Node.js microservices** on AWS (Lambda, ECS), optimizing authentication flows (Cognito) and handling high-concurrency workloads.
+- **Infrastructure as Code:** Automated complex deployment pipelines using **Terraform** and **GitHub Actions**, reducing deployment times and eliminating manual errors.
+- **Mentorship & R&D:** actively guiding Junior/Mid developers through code reviews and leading R&D initiatives to adopt modern tools like **Next.js** and **Serverless** patterns.
+
+---
+
+<p align="center">
+  Let's connect and build something scalable! 🚀
 </p>
-
----
-
-## 🎯 Final Note
-
-I enjoy building high-impact systems with great teams — from architecture to deployment.  
-If you’re working on something exciting and want to collaborate: **reach out!**
-
----
-
